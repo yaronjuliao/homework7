@@ -1,0 +1,80 @@
+.logo {
+    height: 120px;
+    width: 260px;
+    padding-top:20px; 
+}
+.titulo {
+    color:#212d78;
+    font-size:14pt;
+    float: right; 
+    padding: 43px;
+}
+.container-titulo{
+     padding-top:20px; 
+}
+nav {
+
+    background-color:#212d78;
+    height: 50px; 
+    padding: 10px;
+    color: white;
+    font-size:16pt; 
+
+}
+.hora {
+    height: 25px;
+    /* background-color: blueviolet; */
+    text-align: left;
+    color: black;   
+}
+.general{   
+}
+main{
+    height: 400px;
+    /* background-color:red; */
+    text-align: center; 
+    padding-top:30px;
+    border-left: 1px solid #ccc; 
+    
+}
+.ban3 {
+    width: 672px;
+    height: 335px;
+}
+aside{   
+    background-color:#3E7820;
+    height:600px; 
+}
+.box1{
+ 
+    height: 280px;
+    border: 2px color #929AA5;
+    background-color: gray ;
+    margin: 15px;
+    padding: 19px;
+    border-radius:9px;
+}
+.box2{
+    height: 80px;
+    border: 2px color #929AA5;
+    background-color: gray ;
+    margin: 15px;
+    
+}
+.box3{
+    height: 80px;
+    border: 2px  color #929AA5;
+    background-color: gray ;
+    margin: 15px;
+}
+.box4{
+    height: 80px;
+    border: 2px color #929AA5;
+    background-color: gray ;
+ 
+    margin: 15px;
+}
+ .boton {
+    padding-left: 101px;
+    margin-top: 20px;
+ }
